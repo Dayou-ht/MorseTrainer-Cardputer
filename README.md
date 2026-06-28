@@ -51,11 +51,11 @@
 
 ## 📦 Installation / 安装方法
 
-### Option 1: M5Burner (推荐)
+### Option 1: M5Burner (推荐 / Recommended)
 
 1. Open **M5Burner** / 打开 M5Burner
 2. Click **Custom → Share Burn** / 点击 自定义 → 分享下载
-3. Enter share code: *(coming soon)* / 输入分享码：(待上线)
+3. Enter share code / 输入分享码: **`nk1kjuKx2MK1xANY`**
 4. Flash to device / 烧录
 
 ### Option 2: PlatformIO
